@@ -371,7 +371,7 @@ Error example:
 ![Forecast and reorder](docs/screenshots/forcast_%26_reorder.png)
 
 ### AI summary
-![AI summary](docs/screenshots/ai_summary.png)
+![AI summary](/backend/docs/screenshots/ai_summary.png)
 
 ## Troubleshooting
 

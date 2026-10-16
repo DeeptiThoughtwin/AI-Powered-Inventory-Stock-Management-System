@@ -347,28 +347,28 @@ Error example:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](docs/screenshots/dashboard-1.png)
+![Dashboard](/backend/docs/screenshots/dashboard-1.png)
 
 ### Low-stock alerts
-![Low-stock alerts](docs/screenshots/low-stock-alerts.png)
+![Low-stock alerts](/backend/docs/screenshots/low-stock-alerts.png)
 
 ### Products
-![Products](docs/screenshots/products.png)
+![Products](/backend/docs/screenshots/products.png)
 
 ### Suppliers
-![Suppliers](docs/screenshots/suppliers.png)
+![Suppliers](/backend/docs/screenshots/suppliers.png)
 
 ### Purchases
-![Purchases](docs/screenshots/purchases.png)
+![Purchases](/backend/docs/screenshots/purchases.png)
 
 ### Sales
-![Sales](docs/screenshots/sales.png)
+![Sales](/backend/docs/screenshots/sales.png)
 
 ### Inventory history
-![Inventory history](docs/screenshots/inventry-history.png)
+![Inventory history](/backend/docs/screenshots/inventry-history.png)
 
 ### Forecast and reorder
-![Forecast and reorder](docs/screenshots/forcast_%26_reorder.png)
+![Forecast and reorder](/backend/docs/screenshots/forecast-reorder.png)
 
 ### AI summary
 ![AI summary](/backend/docs/screenshots/ai_summary.png)
